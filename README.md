@@ -1,0 +1,2 @@
+# activemq_client
+ActiveMQを用いてメッセージングを行うプログラム
